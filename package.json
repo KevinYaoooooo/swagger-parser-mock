@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "memoizee": "^0.4.11",
+    "swagger-parser": "^6.0.2",
     "swagger-client": "^3.3.3",
     "swagger-tools": "^0.10.3",
     "url": "^0.11.0"
